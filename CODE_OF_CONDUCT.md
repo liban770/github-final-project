@@ -1,1 +1,49 @@
-respect everyone
+# Contributor Covenant Code of Conduct
+
+## Our Pledge
+
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+
+## Our Standards
+
+Examples of behavior that contributes to a positive environment include:
+
+- Demonstrating empathy and kindness toward other people.
+- Being respectful of differing opinions and experiences.
+- Giving and gracefully accepting constructive feedback.
+- Accepting responsibility and apologizing to those affected by our mistakes.
+- Focusing on what is best for the overall community.
+
+Examples of unacceptable behavior include:
+
+- Harassment, discrimination, or insulting comments.
+- Trolling, personal attacks, or offensive language.
+- Publishing private information without permission.
+- Any conduct that would be inappropriate in a professional setting.
+
+## Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior. They will take appropriate and fair corrective action in response to any behavior they consider inappropriate, threatening, offensive, or harmful.
+
+## Scope
+
+This Code of Conduct applies within all community spaces and also applies when an individual is officially representing the community in public spaces.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement. All complaints will be reviewed fairly and appropriately.
+
+## Enforcement Guidelines
+
+Community leaders will follow these guidelines when determining consequences:
+
+1. Correction: A private warning for minor violations.
+2. Warning: A formal warning for repeated or serious violations.
+3. Temporary Ban: Temporary suspension from community participation.
+4. Permanent Ban: Permanent removal from the community for serious or repeated violations.
+
+## Attribution
+
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
